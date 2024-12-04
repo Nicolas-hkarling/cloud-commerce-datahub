@@ -1,0 +1,29 @@
+{
+  "dataHubVersion": "2211.31",
+  "extensionPacks": [
+    {
+      "name": "hybris-datahub-integration-suite",
+      "version": "2211.29"
+    }
+  ],
+  "extensions": [
+    "sapcoreconfiguration",
+    "sapcustomer-canonical",
+    "sapcustomer-raw",
+    "sapcustomer-target",
+    "party-canonical",
+    "saperpproduct-canonical",
+    "saperpproduct-raw",
+    "saperpproduct-target",
+    "product-canonical",
+    "sappricing-canonical",
+    "sappricing-canonical-bonusbuy",
+    "sappricing-raw",
+    "sappricing-target",
+    "saporder-canonical",
+    "saporder-raw",
+    "saporder-target",
+    "sapidocintegration",
+    "sapidocoutboundadapter"
+  ]
+}
