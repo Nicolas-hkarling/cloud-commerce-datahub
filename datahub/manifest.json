@@ -4,7 +4,11 @@
     {
       "name": "hybris-datahub-integration-suite",
       "version": "2211.29"
-    }
+    },
+      {
+		    "name" : "cx-commerce-crm-datahub-integration",
+                    "version" : "2211.5"
+	    }
   ],
   "extensions": [
     "sapcoreconfiguration",
@@ -24,6 +28,19 @@
     "saporder-raw",
     "saporder-target",
     "sapidocintegration",
-    "sapidocoutboundadapter"
+    "sapidocoutboundadapter",
+    "sapcrmidocintegration",
+	  "sapcrmserviceticket",
+	  "sapcrmibase",
+	  "sapcrmidocoutboundadapter",
+	  "sapcrmservicorder",
+	  "sapreturnorder",
+	  "sapcrminvoice",
+	  "sapcrmcomplaint",
+	  "sapbusinessagreement",
+	  "sapcrmproductbundle",
+	  "sapcrmcustomer",
+	  "sapcrmproduct",
+	  "sapcrmorder"
   ]
 }
