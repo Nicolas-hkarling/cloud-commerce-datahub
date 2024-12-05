@@ -47,11 +47,7 @@
         "location": "/hybris/config/environments/backoffice.properties"
       }
     ],
-    "extensions": {
-      "exclude": [
-      ]
-    }
-  },
+    
   "properties": [
     {
       "key": "datahubadapter.datahuboutbound.password",
